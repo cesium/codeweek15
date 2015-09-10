@@ -15,10 +15,10 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
+title:       "Code Week 2015 @ UMinho"
+keywords:    "CeSIUM, jekyll, Code Week, github, universidade do minho, departamento informatica"
+description: "Code Week 2015 no Departamento de Informática da Universidade do Minho, organizada pelo CeSIUM - Centro de Estudantes de Engenharia Informática"
+source_link: "https://github.com/cesium/codeweek15"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
@@ -26,14 +26,17 @@ google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (bl
 
 ### template colors, used site-wide via css ###
 colors:
-  black:     '#111111'
-  white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
+  black:     '#3c3836'
+  white:     '#fbf1c7'
+  blue:      '#458588'
+  green:     '#98971a'
+  purple:    '#b16286'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
+  red:       '#cc241d'
 
 kramdown:
   auto_ids:  false
 
+sass:
+  sass_dir: _includes/_stylesheets
