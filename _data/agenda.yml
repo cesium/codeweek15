@@ -1,8 +1,10 @@
 monday:
   - title: DI Goes Retro
     image: retro.png
-    text: ceninhas muito lindas
+    text: É durante este dia que o Departamento de Informática entra numa máquina do tempo, sons 8 bits das consolas que ganham vida.\n
+          Os computadores serão substituídos pelos seus antecessores dos anos 80 e 90.
+      Será a oportunidade ideal para relembrar as raízes da computação.
   - title: 1.º ano
-    image: bgnoise.png
+    image: retro.png
     text: cenoas
 
