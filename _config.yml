@@ -39,4 +39,4 @@ kramdown:
   auto_ids:  false
 
 sass:
-  sass_dir: _includes/_stylesheets
+  sass_dir: stylesheets/_sass/

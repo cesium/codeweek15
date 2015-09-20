@@ -1,5 +1,3 @@
----
----
-{% include _stylesheets/base.css %}
-{% include _stylesheets/skeleton.css %}
-{% include _stylesheets/main.css %}
+@import url('/stylesheets/css/base.css');
+@import url('/stylesheets/css/skeleton.css');
+@import url('/stylesheets/css/main.css');
