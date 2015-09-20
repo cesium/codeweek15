@@ -1,5 +1,5 @@
 ---
-title: "Why"
+title: "Atividades"
 bg: green
 color: black
 icon: cesium.png

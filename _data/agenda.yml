@@ -1,10 +1,29 @@
+saturday:
+  - title: Hackathon
+    time: 9h-18h
+    place: DI A2
+    image: retro.png
+    text: Junta uma equipa e participa neste concurso de programação carregado de atividades.
+
 monday:
   - title: DI Goes Retro
+    time: 9h-18h
+    place: DI A2
     image: retro.png
     text: É durante este dia que o Departamento de Informática entra numa máquina do tempo, sons 8 bits das consolas que ganham vida.\n
           Os computadores serão substituídos pelos seus antecessores dos anos 80 e 90.
       Será a oportunidade ideal para relembrar as raízes da computação.
-  - title: 1.º ano
+  - title: Bash Introduction
+    time: 9h-18h
+    place: DI A2
     image: retro.png
-    text: cenoas
+    text: Uma palestra sobre a Bash de forma a preparar-te para a utilização do terminal
+
+tuesday:
+  - title: Cenas
+    time: 9h-18h
+    place: DI A2
+    image:
+    text:
+
 
