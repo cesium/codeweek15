@@ -8,7 +8,7 @@ icon: cesium.png
 #### De que esperas?
 
 # Temos preparado
-<div class="container row features">
+<div class="row features">
   <div class="col s4 feature">
     <i class="fa fa-comments-o fa-4x">
     </i>

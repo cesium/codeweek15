@@ -32,18 +32,29 @@
     border-bottom: solid
 
   .activity
-    height: 200px
-    .activity-img, .activity-descr, .activity-img img
-      height: 100%
-    .activity-img img
-      max-height: 200px
-      display: block
-      margin: 0 auto
+    padding: 50px
     .activity-info
       .activity-title
+        font-weight: 700
         margin-top: 10px
       .activity-time, .activity-place
         margin-top: 0px
       .activity-desc
         margin-top: 10px
+
+@media screen and (max-width: 600px)
+  #main
+    nav ul a
+      font-size: 11px
+    .activity
+      padding: 20px
+      .activity-info-wrapper
+        display: inline
+        .activity-info
+          text-align: center
+        .activity-img
+          width: 40%
+          margin: 0 auto
+          float: none
+
 
