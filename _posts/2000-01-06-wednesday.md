@@ -1,8 +1,8 @@
 ---
 title: "Quarta 14"
 bg: turquoise
-color: white
-border-color: black
+color: black
+border-color: white
 fa-icon: battery-half
 ---
 
