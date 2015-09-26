@@ -1,8 +1,8 @@
-saturday:
+saturday1:
   - title: Hackathon
     time: 9h-18h
     place: DI A2
-    image: retro.png
+    image: hackathon.png
     text: Junta uma equipa e participa neste concurso de programação carregado de atividades.
 
 monday:
@@ -16,14 +16,52 @@ monday:
   - title: Bash Introduction
     time: 9h-18h
     place: DI A2
-    image: retro.png
+    image: bash.png
     text: Uma palestra sobre a Bash de forma a preparar-te para a utilização do terminal
 
 tuesday:
-  - title: Cenas
+  - title: Segurança
     time: 9h-18h
     place: DI A2
-    image:
-    text:
+    image: segurança.png
+    text: Uma palestra sobre segurança para te preparar para os desafios que temos para ti.
+  - title: Geek Night
+    time: 9h-18h
+    place: DI A2
+    image: geenorbertk.png
+    text: Vem connosco beber um copo enquanto falas do que mais gostas.
 
+wednesday:
+  - title: Elixir
+    time: 9h-18h
+    place: DI A2
+    image: elixir.png
+    text: Uma framework em ascenção.
+  - title: JavaScript
+    time: 9h-18h
+    place: DI A2
+    image: javascript.png
+    text: Conhecida por toda a gente, junta te a nos para aprenderes um pouco sobre a linguagem.
+
+thursday:
+  - title: Ionic
+    time: 9h-18h
+    place: DI A2
+    image: ionic.png
+    text: Framework, diz que é fixe.
+
+friday:
+  - title: Retro Strickes Again
+    time: 9h-18h
+    place: DI A2
+    image: red.png
+    text: E como nunca da para jogar só 1 vez, temos um start again, aparece pelo DI e diverte te.
+
+
+saturday2:
+  - title: CoderDojo
+    time: 9h-18h
+    place: DI A2
+    image: coderdojo.png
+    text: Tens entre 7 e 17 anos e tens interesse em informatica? Então esta atividade é para ti.
 
