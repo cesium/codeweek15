@@ -26,12 +26,21 @@
 <body>
   <div id="main">
 
-    <nav><ul>
+    <nav>
+      <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="right fa fa-bars"></i></a>
+      <ul class="hide-on-med-and-down">
       {% for node in site.posts reversed %}
         {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
         <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
       {% endfor %}
-    </ul></nav>
+      </ul>
+      <ul class="side-nav" id="mobile-demo">
+      {% for node in site.posts reversed %}
+        {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
+        <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
+      {% endfor %}
+      </ul>
+    </nav>
 
 
     {% for page in site.posts reversed %}
@@ -74,4 +83,5 @@
 </body>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="site.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.1/js/materialize.min.js"></script>
 </html>

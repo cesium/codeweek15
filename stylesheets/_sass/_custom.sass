@@ -1,6 +1,11 @@
 #main
-  nav ul li
-    float: none
+  nav ul
+    a
+      font-size: 0.8em
+    &.side-nav a
+      margin-right: 30px
+    li
+      float: none
   #atividades
     .icon img
       width: 55%
@@ -46,6 +51,12 @@
   #main
     nav ul a
       font-size: 11px
+    #atividades
+      .feature
+        margin-bottom: 20px
+        .feature-description
+          margin-top: 0px
+
     .activity
       padding: 20px
       .activity-info-wrapper
@@ -57,4 +68,6 @@
           margin: 0 auto
           float: none
 
+#sidenav-overlay
+  z-index: 50
 
