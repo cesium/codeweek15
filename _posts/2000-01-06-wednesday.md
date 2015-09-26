@@ -1,16 +1,16 @@
 ---
-title: "Sábado 10"
-bg: orange
-color: black
-border-color: white
-fa-icon: child
+title: "Quarta 14"
+bg: turquoise
+color: white
+border-color: black
+fa-icon: battery-half
 ---
 
-<div class="section-lines section-top section-right"></div>
-{% for activity in site.data.agenda.saturday1 %}
-  {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+<div class="section-lines section-top section-left"></div>
+{% for activity in site.data.agenda.monday %}
+  {% capture thecycle %}{% cycle 'even', 'odd' %}{% endcapture %}
   {% if thecycle == 'odd' %}
-  {% if activity == site.data.agenda.saturday1.last %}
+  {% if activity == site.data.agenda.monday.last %}
   <div class="activity section-left">
   {% else %}
   <div class="activity section-left section-bottom">
@@ -32,7 +32,7 @@ fa-icon: child
     </div>
   </div>
   {% else %}
-  {% if activity == site.data.agenda.saturday1.last %}
+  {% if activity == site.data.agenda.monday.last %}
   <div class="activity section-right">
   {% else %}
   <div class="activity section-right section-bottom">
