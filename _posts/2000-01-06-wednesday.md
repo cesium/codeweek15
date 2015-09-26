@@ -7,10 +7,10 @@ fa-icon: battery-half
 ---
 
 <div class="section-lines section-top section-left"></div>
-{% for activity in site.data.agenda.monday %}
+{% for activity in site.data.agenda.wednesday %}
   {% capture thecycle %}{% cycle 'even', 'odd' %}{% endcapture %}
   {% if thecycle == 'odd' %}
-  {% if activity == site.data.agenda.monday.last %}
+  {% if activity == site.data.agenda.wednesday.last %}
   <div class="activity section-left">
   {% else %}
   <div class="activity section-left section-bottom">
@@ -32,7 +32,7 @@ fa-icon: battery-half
     </div>
   </div>
   {% else %}
-  {% if activity == site.data.agenda.monday.last %}
+  {% if activity == site.data.agenda.wednesday.last %}
   <div class="activity section-right">
   {% else %}
   <div class="activity section-right section-bottom">
