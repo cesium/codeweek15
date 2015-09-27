@@ -1,8 +1,8 @@
 ---
 title: "Sábado 17"
-bg: '#39479b'
-color: black
-border-color: white
+bg: saturday-two
+color: white
+border-color: friday
 fa-icon: laptop
 ---
 

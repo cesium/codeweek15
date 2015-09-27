@@ -26,14 +26,16 @@ google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (bl
 
 ### template colors, used site-wide via css ###
 colors:
-  white:     'white'
-  black:     '#333'
-  beige:     '#fbf1c7'
-  turquoise: '#a7dbd8'
-  purple:    '#b16286'
-  orange:    '#f38630'
-  blue:      '#458588'
-  red:       '#cc241d'
+  white:        '#eaeaea'
+  intro:        '#428bca'
+  activities:   '#ed7950'
+  saturday-one: '#66b266'
+  monday:       '#5ea06e'
+  tuesday:      '#578e77'
+  wednesday:    '#4f7c80'
+  thursday:     '#486a89'
+  friday:       '#415992'
+  saturday-two: '#39479b'
 
 kramdown:
   auto_ids:  false
