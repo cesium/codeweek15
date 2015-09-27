@@ -144,8 +144,8 @@ html { box-sizing: border-box; }
   
   
   nav .p-intro { border-color: #428bca; }
-  #intro { background-color: #428bca !important; color: #333; }
-  #intro a { color: #333; }
+  #intro { background-color: #428bca !important; color: white; }
+  #intro a { color: white; }
   #intro .sectiondivider { color: #428bca; }
   #main #intro .activity { border-color:  }
   #main #intro .section-lines { border-color:  }
