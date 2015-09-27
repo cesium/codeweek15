@@ -24,7 +24,7 @@ tuesday:
     time: 16h-18h
     place: DI A1
     image: segurança.png
-    text: Nós tempos de hoje é sempre importante ter os nosso dados seguros. Hackers e invasores andam a solta e se tu não queres ficar para trás, aparece. Aprende um pouco sobre segurança informática com a [Eurotux](http://eurotux.com/).
+    text: Nós tempos de hoje é sempre importante ter os nosso dados seguros. Hackers e invasores andam a solta e se tu não queres ficar para trás, aparece. Aprende um pouco sobre segurança informática com a <a href="http://eurotux.com/">Eurotux</a>.
   - title: Geek Night
     time: 20h30-22h
     place: Senhora à Velha
@@ -48,7 +48,7 @@ thursday:
     time: 9h-18h
     place: DI A2
     image: ionic.png
-    text: Uma framework open-source para desenvolver aplicações mobile em HTML, CSS e JS. Aparece nesta talk pela [Subvisual](http://subvisual.co/).
+    text: Uma framework open-source para desenvolver aplicações mobile em HTML, CSS e JS. Aparece nesta talk pela <a href="http://subvisual.co/">Subvisual</a>.
 
 friday:
   - title: Retro Strikes Again
