@@ -56,7 +56,7 @@ fa-icon: laptop
   {% endif %}
 {% endfor %}
 {% if thecycle == 'even' %}
-<div class="section-lines section-bottom section-left"></div>
+<div class="section-lines section-bottom section-last section-left"></div>
   {% else %}
-<div class="section-lines section-bottom section-right"></div>
+<div class="section-lines section-bottom section-last section-right"></div>
 {% endif %}
