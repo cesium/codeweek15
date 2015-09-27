@@ -13,7 +13,7 @@ icon: cesium.png
     <i class="fa fa-comments-o fa-4x">
     </i>
     <h4> Palestras e Workshops </h4>
-    <p class="feature-description"> De javascript a Ionic, aproveita os diferentes temas. </p>
+    <p class="feature-description"> De JavaScript a Ionic, aproveita os diferentes temas. </p>
   </div>
   <div class="col s12 m4 feature">
     <i class="fa fa-laptop fa-4x">

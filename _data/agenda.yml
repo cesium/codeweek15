@@ -10,58 +10,55 @@ monday:
     time: 9h-18h
     place: DI A1
     image: retro.png
-    text: É durante este dia que o Departamento de Informática entra numa máquina do tempo, sons 8 bits das consolas que ganham vida.\n
-          Os computadores serão substituídos pelos seus antecessores dos anos 80 e 90.
-      Será a oportunidade ideal para relembrar as raízes da computação.
+    text: É durante este dia que o Departamento de Informática entra numa máquina do tempo. Os computadores são substituídos pelos seus antecessores dos anos 80 e 90. Parece para relembrar as raízes da computação através de jogos arcade e um museu aberto!
   - title: Bash Introduction
     time: 16h-18h
     place: DI A1
     image: bash.png
-    text: Uma palestra sobre a Bash para iniciantes, de forma a preparar-te para a utilização do terminal. Especialmente preparada para os novos utilizadores de Linux!
+    text: Especialmente preparada para os novos utilizadores de Linux, esta palestra para iniciantes, prepara-te para a utilização produtiva do terminal.
 
 tuesday:
   - title: Segurança
     time: 16h-18h
     place: DI A1
     image: segurança.png
-    text: Nós tempos de hoje é sempre importante ter os nosso dados seguros. Hackers e invasores andam a solta e se tu não queres ficar para trás, aparece. Aprende um pouco sobre segurança informática com a <a href="http://eurotux.com/">Eurotux</a>.
+    text: Nos tempos de hoje é sempre importante ter os nosso dados seguros. Hackers e invasores andam a solta e se tu não queres ficar para trás, aparece. Aprende um pouco sobre segurança informática com a <a href="http://eurotux.com/">Eurotux</a>.
   - title: Geek Night
     time: 20h30-22h
-    place: Senhora à Velha
+    place: Velha-a-branca
     image: geenorbertk.png
-    text: Estamos ainda a meio da semana, e como programar não é tarefa fácil, vem desanuviar um pouco. Vamos criar o ambiente ideal para te divertires e teres a hipótese de discutir sobre os assuntos que mais gostas.
+    text: Estamos ainda a meio da semana, e como programar não é tarefa fácil, vem desanuviar um pouco. Vamos criar o ambiente ideal para te divertires. Vem ter connosco para conversas sobre programação e informática.
 
 wednesday:
-  - title: Elixir - A Talk for College Students
+  - title: "Elixir: A Talk for College Students"
     time: 14h-16h
     place: DI A1
     image: elixir.png
-    text: Uma linguagem de programação funcional escalável e tolerante a falhas que foi criada em 2012. Nesta sessão irás aprender os conceitos por trás de uma das linguagens do momento, através de paralelismo com linguagens mais conhecidas.
+    text: Uma linguagem de programação funcional escalável e tolerante a falhas que foi criada em 2012. Nesta sessão irás aprender os conceitos por trás de uma das linguagens do momento, comparando com linguagens mais conhecidas.
   - title: JavaScript
     time: 16h-18h
     place: DI A1
     image: javascript.png
-    text: Uma das três tecnologias essenciais, uma linguagem multi-paradigma que nada tem a ver com Java e, tal como o CeSIUM, faz 20 anos de existência. Nesta palestra serás introduzido a esta linguagem de scripting.
+    text: Uma linguagem multi-paradigma essencial para a Web. Nesta palestra serás introduzido a esta linguagem de scripting.
 
 thursday:
   - title: Ionic
-    time: 9h-18h
-    place: DI A2
+    time: 16h-18h
+    place: DI A1
     image: ionic.png
-    text: Uma framework open-source para desenvolver aplicações mobile em HTML, CSS e JS. Aparece nesta talk pela <a href="http://subvisual.co/">Subvisual</a>.
+    text: Estás interessado em criar apps? Então aprende sobre esta framework open-source para desenvolver aplicações mobile para iOS e Android em HTML5, CSS e JavaSript. Aparece nesta talk pela <a href="http://subvisual.co/">Subvisual</a>.
 
 friday:
   - title: Retro Strikes Again
     time: 9h-18h
-    place: DI A2
+    place: DI A1
     image: red.png
-    text: Se no início da semana ainda estavas a pensar o que fazer, e ainda não passas-te pelo DI aproveita agora, passa por cá e relembra a informática de outrora bem como os bons sons 8-bits que temos para ti.
-
+    text: Se no início da semana ainda estavas a pensar no que fazer, e ainda não passaste pelo DI aproveita agora, passa por cá e relembra a informática de outrora bem como os bons sons 8-bits que temos para ti.
 
 saturday2:
   - title: CoderDojo
     time: 9h-18h
-    place: DI A2
+    place: DI A1
     image: coderdojo.png
     text: O CoderDojo Minho é um movimento aberto e sem fins lucrativos para ensinar jovens dos 7 aos 17 a programar. Partilha e aparece caso tenhas interesse em informática.
 
