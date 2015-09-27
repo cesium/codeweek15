@@ -34,12 +34,12 @@ wednesday:
     time: 14h-16h
     place: DI A1
     image: elixir.png
-    text: Uma linguagem de programação funcional escalável e tolerante a falhas que foi criada em 2012. Nesta sessão irás aprender os conceitos por trás de uma das linguagens do momento, comparando com linguagens mais conhecidas.
+    text: Elixir é uma das linguagens do momento! Escalável, funcional e tolerante a falhas. Connosco terás uma palestra preparada para ti, com várias comparações com linguagens mais conhecidas.
   - title: JavaScript
     time: 16h-18h
     place: DI A1
     image: javascript.png
-    text: Uma linguagem multi-paradigma essencial para a Web. Nesta palestra serás introduzido a esta linguagem de scripting.
+    text: JavaScript é uma das linguagens em maior desenvolvimento, com várias frameworks a surgir! Junta-te a <a href="https://github.com/pfac">Pedro Costa</a> para aprenderes os básicos desta linguagem essencial para o desenvolvimento web.
 
 thursday:
   - title: Ionic
