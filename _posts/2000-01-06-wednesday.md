@@ -1,6 +1,6 @@
 ---
 title: "Quarta 14"
-bg: '#c8c09f'
+bg: '#4f7c80'
 color: black
 border-color: white
 fa-icon: battery-half

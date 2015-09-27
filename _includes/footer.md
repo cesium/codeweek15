@@ -1,5 +1,5 @@
 
 
-Proudly hosted in Github
+Proudly hosted in [Github](www.github.com)
 &mdash;
-http://www.cesium.di.uminho.pt
+[Cesium](http://www.cesium.di.uminho.pt)

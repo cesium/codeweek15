@@ -517,10 +517,10 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-saturday { border-color: green; }
-  #saturday { background-color: green !important; color: #333; }
+  nav .p-saturday { border-color: #39479b; }
+  #saturday { background-color: #39479b !important; color: #333; }
   #saturday a { color: #333; }
-  #saturday .sectiondivider { color: green; }
+  #saturday .sectiondivider { color: #39479b; }
   #main #saturday .activity { border-color: white }
   #main #saturday .section-lines { border-color: white }
 
@@ -528,10 +528,10 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-friday { border-color: #63BD2F; }
-  #friday { background-color: #63BD2F !important; color: #333; }
+  nav .p-friday { border-color: #415992; }
+  #friday { background-color: #415992 !important; color: #333; }
   #friday a { color: #333; }
-  #friday .sectiondivider { color: #63BD2F; }
+  #friday .sectiondivider { color: #415992; }
   #main #friday .activity { border-color: white }
   #main #friday .section-lines { border-color: white }
 
@@ -539,10 +539,10 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-thursday { border-color: #458588; }
-  #thursday { background-color: #458588 !important; color: #333; }
+  nav .p-thursday { border-color: #486a89; }
+  #thursday { background-color: #486a89 !important; color: #333; }
   #thursday a { color: #333; }
-  #thursday .sectiondivider { color: #458588; }
+  #thursday .sectiondivider { color: #486a89; }
   #main #thursday .activity { border-color: white }
   #main #thursday .section-lines { border-color: white }
 
@@ -550,10 +550,10 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-wednesday { border-color: #c8c09f; }
-  #wednesday { background-color: #c8c09f !important; color: #333; }
+  nav .p-wednesday { border-color: #4f7c80; }
+  #wednesday { background-color: #4f7c80 !important; color: #333; }
   #wednesday a { color: #333; }
-  #wednesday .sectiondivider { color: #c8c09f; }
+  #wednesday .sectiondivider { color: #4f7c80; }
   #main #wednesday .activity { border-color: white }
   #main #wednesday .section-lines { border-color: white }
 
@@ -561,10 +561,10 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-tuesday { border-color: #329932; }
-  #tuesday { background-color: #329932 !important; color: #333; }
+  nav .p-tuesday { border-color: #578e77; }
+  #tuesday { background-color: #578e77 !important; color: #333; }
   #tuesday a { color: #333; }
-  #tuesday .sectiondivider { color: #329932; }
+  #tuesday .sectiondivider { color: #578e77; }
   #main #tuesday .activity { border-color: white }
   #main #tuesday .section-lines { border-color: white }
 
@@ -572,10 +572,10 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-monday { border-color: #6a9d9f; }
-  #monday { background-color: #6a9d9f !important; color: #333; }
+  nav .p-monday { border-color: #5ea06e; }
+  #monday { background-color: #5ea06e !important; color: #333; }
   #monday a { color: #333; }
-  #monday .sectiondivider { color: #6a9d9f; }
+  #monday .sectiondivider { color: #5ea06e; }
   #main #monday .activity { border-color: white }
   #main #monday .section-lines { border-color: white }
 
@@ -594,10 +594,10 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-atividades { border-color: #ee8661; }
-  #atividades { background-color: #ee8661 !important; color: #333; }
+  nav .p-atividades { border-color: #ed7950; }
+  #atividades { background-color: #ed7950 !important; color: #333; }
   #atividades a { color: #333; }
-  #atividades .sectiondivider { color: #ee8661; }
+  #atividades .sectiondivider { color: #ed7950; }
   #main #atividades .activity { border-color:  }
   #main #atividades .section-lines { border-color:  }
 
@@ -605,10 +605,10 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-intro { border-color: #fbf1c7; }
-  #intro { background-color: #fbf1c7 !important; color: #333; }
+  nav .p-intro { border-color: #428bca; }
+  #intro { background-color: #428bca !important; color: #333; }
   #intro a { color: #333; }
-  #intro .sectiondivider { color: #fbf1c7; }
+  #intro .sectiondivider { color: #428bca; }
   #main #intro .activity { border-color:  }
   #main #intro .section-lines { border-color:  }
 

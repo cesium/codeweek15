@@ -1,6 +1,6 @@
 ---
 title: "Atividades"
-bg: '#ee8661'
+bg: '#ed7950'
 color: black
 icon: cesium.png
 ---

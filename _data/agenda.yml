@@ -24,12 +24,12 @@ tuesday:
     time: 9h-18h
     place: DI A2
     image: segurança.png
-    text: Uma palestra sobre segurança para te preparar para os desafios que temos para ti.
+    text: Nós tempos de hoje é sempre importante ter os nosso dados seguros. Hackers e invasores andam a solta e se tu não queres ficar para trás, aparece. Aprende um pouco sobre segurança informática e não te deixes hackear.
   - title: Geek Night
     time: 9h-18h
     place: DI A2
     image: geenorbertk.png
-    text: Vem connosco beber um copo enquanto falas do que mais gostas.
+    text: Estamos ainda a meio da semana, e como programar não é tarefa facil, vem desanuviar um pouco. Vamos criar o ambiente ideal para te divertires e teres a hipotse de discutir sobre os assuntos que mais gostas.
 
 wednesday:
   - title: Elixir
@@ -51,11 +51,11 @@ thursday:
     text: Framework, diz que é fixe.
 
 friday:
-  - title: Retro Strickes Again
+  - title: Retro Strikes Again
     time: 9h-18h
     place: DI A2
     image: red.png
-    text: E como nunca da para jogar só 1 vez, temos um start again, aparece pelo DI e diverte te.
+    text: Senão no inicio da semana ainda estavas a pensar o que fazer esta semana, e não passas te pelo DI aproveita agora, passa por cá e desfruta das cores simples e dos bons sonsa 8-bits que temos para ti.
 
 
 saturday2:
