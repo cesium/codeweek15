@@ -98,7 +98,7 @@ $(document).ready(function (){
     $('.partners').slick({
       slidesToShow: 2,
       slidesToScroll: 2,
-      autoplay: false,
+      autoplay: true,
       dots: true,
       arrows: false,
       responsive: [
