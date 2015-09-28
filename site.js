@@ -92,5 +92,24 @@ $(document).ready(function (){
 	});
 
   $(".button-collapse").sideNav();
+
+  // Carrousel settings
+  $(document).ready(function(){
+    $('.partners').slick({
+      slidesToShow: 2,
+      slidesToScroll: 2,
+      autoplay: false,
+      dots: true,
+      arrows: false,
+      responsive: [
+      {
+        breakpoint: 767,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1,
+        }
+      }]
+    });
+  });
 });
 
