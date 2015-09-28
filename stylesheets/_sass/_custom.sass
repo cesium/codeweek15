@@ -17,12 +17,23 @@
       .feature
         text-align: center
   #partners
+    padding-bottom: 50px
+    .slick-track
+      display: flex
+      align-items: center
     .fa-users
       font-size: 110px
     .slick-dots li button:before
       color: white
-    .partner img
-      margin: 0 auto
+    .partner
+      &:hover, &:focus
+        outline: 0px none
+      img
+        max-height: 200px
+        max-width: 350px !important
+        margin: 0 auto
+      a:visited, a:link
+        text-decoration: none
 
   .section-lines
     height: 100px
