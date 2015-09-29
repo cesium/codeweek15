@@ -1,33 +1,41 @@
 saturday1:
-  - title: Hackathon
-    time: 9h-18h
+  - title: CeSIUM Hackathon
+    time: 10h-20h
     place: DI A1
     image: hackathon.png
-    text: Junta uma equipa, prepara-te para o tema e participa neste concurso de programação onde vais num só dia desenvolver um projeto do início ao fim. O tema será anunciado brevemente.
+    text: A primeira CeSIUM Hackathon deste ano será competitiva! Passa o sábado connosco no Departamento de Informática a programar o melhor bot que conseguires. O vencedor terá direito a um prémio! O almoço e coffee break são por nossa conta. Há limite de vagas para as inscrições.
+
+  - title: "BragaJS: Meteor Global Distributed Hackathon"
+    time: 11h-11h (24h)
+    place: DI A1
+    image: meteor.png
+    text: Os meetups BragaJS trazem para Portugal uma edição da Meteor Global Distributed Hackathon! Para te inscreveres neste evento, organizado em conjunto com a <a target="_blank" href="http://subvisual.co/">Subvisual</a>, necessitas de te registar no <a target="_blank" href="http://www.meetup.com/bragajs/events/225530868/">Meetup</a> e no <a target="_blank" href="http://info.meteor.com/2015-hackathon">site oficial</a> até 2 de Outubro. Jantar e coffee break são garantidos! Não te esqueças de consultar as regras de submissão.
 
 monday:
   - title: DI Goes Retro
     time: 9h-18h
-    place: DI A1
+    place: Átrio do DI
     image: retro.png
-    text: É durante este dia que o Departamento de Informática entra numa máquina do tempo. Os computadores são substituídos pelos seus antecessores dos anos 80 e 90. Parece para relembrar as raízes da computação através de jogos arcade e um museu aberto!
+    text: É durante este dia que o Departamento de Informática entra numa máquina do tempo. Os computadores são substituídos pelos seus antecessores dos anos 80 e 90. Aparece para relembrar as raízes da computação através de jogos arcade e um museu aberto!
+
   - title: Bash Introduction
     time: 16h-18h
     place: DI A1
     image: bash.png
-    text: Especialmente preparada para os novos utilizadores de Linux, esta palestra para iniciantes, prepara-te para a utilização produtiva do terminal.
+    text: Especialmente preparada para os novos utilizadores de Linux, esta palestra para iniciantes prepara-te para a utilização produtiva do terminal.
 
 tuesday:
   - title: Segurança
-    time: 16h-18h
+    time: 17h-19h
     place: DI A1
     image: segurança.png
-    text: Nos tempos de hoje é sempre importante ter os nosso dados seguros. Hackers e invasores andam a solta e se tu não queres ficar para trás, aparece. Aprende um pouco sobre segurança informática com a <a href="http://eurotux.com/">Eurotux</a>.
+    text: 'A <a target="_blank" href="http://eurotux.com/">Eurotux</a> apresenta-te a primeira de uma série de sessões sobre cibersegurança. Junta-te a nós para aprender os básicos de sistemas e segurança e como os hackers exploram as vulnerabilidades.'
+
   - title: Geek Night
     time: 20h30-22h
-    place: Velha-a-branca
+    place: Velha-a-Branca
     image: geenorbertk.png
-    text: Estamos ainda a meio da semana, e como programar não é tarefa fácil, vem desanuviar um pouco. Vamos criar o ambiente ideal para te divertires. Vem ter connosco para conversas sobre programação e informática.
+    text: As tradicionais Braga Geek Nights estão de volta! Vamos criar o ambiente ideal para te divertires. Vem ter connosco para um serão de informática e convívio.
 
 wednesday:
   - title: "Elixir: A Talk for College Students"
@@ -35,25 +43,26 @@ wednesday:
     place: DI A1
     image: elixir.png
     text: Elixir é uma das linguagens do momento! Escalável, funcional e tolerante a falhas. Connosco terás uma palestra preparada para ti, com várias comparações com linguagens mais conhecidas.
+
   - title: JavaScript
     time: 16h-18h
     place: DI A1
     image: javascript.png
-    text: JavaScript é uma das linguagens em maior desenvolvimento, com várias frameworks a surgir! Junta-te a <a href="https://github.com/pfac">Pedro Costa</a> para aprenderes os básicos desta linguagem essencial para o desenvolvimento web.
+    text: JavaScript é uma das linguagens em maior desenvolvimento, com várias frameworks a surgir! Junta-te a <a target="_blank" href="https://github.com/pfac">Pedro Costa</a> para aprenderes os básicos desta linguagem essencial para o desenvolvimento web.
 
 thursday:
   - title: Ionic
-    time: 16h-18h
+    time: 17h-19h
     place: DI A1
     image: ionic.png
-    text: Estás interessado em criar apps? Então aprende sobre esta framework open-source para desenvolver aplicações mobile para iOS e Android em HTML5, CSS e JavaSript. Aparece nesta talk pela <a href="http://subvisual.co/">Subvisual</a>.
+    text: Ionic é uma framework mobile que te permite desenvolver apps para iOS e Android, com JavaScript, HTML e CSS. Aparece nesta talk dada pela <a target="_blank" href="http://subvisual.co/">Subvisual</a>!
 
 friday:
   - title: Retro Strikes Again
     time: 9h-18h
-    place: DI A1
+    place: Átrio do DI
     image: red.png
-    text: Se no início da semana ainda estavas a pensar no que fazer, e ainda não passaste pelo DI aproveita agora, passa por cá e relembra a informática de outrora bem como os bons sons 8-bits que temos para ti.
+    text: Se no início da semana não tiveste oportunidade, aproveita e passa pelo Departamento de Informática e relembra a informática de outrora e os bons sons 8-bits que temos para ti.
 
 saturday2:
   - title: CoderDojo
