@@ -99,14 +99,14 @@ $(document).ready(function (){
       slidesToShow: 2,
       slidesToScroll: 2,
       autoplay: true,
+      arrows: true,
       dots: true,
-      arrows: false,
       responsive: [
       {
-        breakpoint: 767,
+        breakpoint: 976,
         settings: {
           slidesToShow: 1,
-          slidesToScroll: 1,
+          slidesToScroll: 1
         }
       }]
     });

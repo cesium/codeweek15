@@ -2,7 +2,7 @@
 title: "Sábado 17"
 bg: saturday-two
 color: white
-border-color: partners
+border-color: contacts
 fa-icon: laptop
 ---
 
