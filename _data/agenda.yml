@@ -1,11 +1,11 @@
 saturday1:
   - title: CeSIUM Hackathon
-    time: 9h-20h
+    time: 10h-20h
     place: DI A1
     image: hackathon.png
     text: A primeira CeSIUM Hackathon deste ano será competitiva! Passa o sábado connosco no Departamento de Informática a programar o melhor bot que conseguires. O vencedor terá direito a um prémio! O almoço e coffee break são por nossa conta. Há limite de vagas para as inscrições.
 
-  - title: BragaJS: Meteor Global Distributed Hackathon
+  - title: "BragaJS: Meteor Global Distributed Hackathon"
     time: 11h-11h (24h)
     place: DI A1
     image: meteor.png
@@ -14,9 +14,10 @@ saturday1:
 monday:
   - title: DI Goes Retro
     time: 9h-18h
-    place: DI A1
+    place: Átrio do DI
     image: retro.png
     text: É durante este dia que o Departamento de Informática entra numa máquina do tempo. Os computadores são substituídos pelos seus antecessores dos anos 80 e 90. Aparece para relembrar as raízes da computação através de jogos arcade e um museu aberto!
+
   - title: Bash Introduction
     time: 16h-18h
     place: DI A1
@@ -25,13 +26,14 @@ monday:
 
 tuesday:
   - title: Segurança
-    time: 16h-18h
+    time: 17h-19h
     place: DI A1
     image: segurança.png
-    text:  <a target="_blank" href="http://eurotux.com/">Eurotux</a>.
+    text: 'A <a target="_blank" href="http://eurotux.com/">Eurotux</a> apresenta-te a primeira de uma série de sessões sobre cibersegurança. Junta-te a nós para aprender os básicos de sistemas e segurança e como os hackers exploram as vulnerabilidades.'
+
   - title: Geek Night
     time: 20h30-22h
-    place: Velha-a-branca
+    place: Velha-a-Branca
     image: geenorbertk.png
     text: As tradicionais Braga Geek Nights estão de volta! Vamos criar o ambiente ideal para te divertires. Vem ter connosco para um serão de informática e convívio.
 
@@ -41,6 +43,7 @@ wednesday:
     place: DI A1
     image: elixir.png
     text: Elixir é uma das linguagens do momento! Escalável, funcional e tolerante a falhas. Connosco terás uma palestra preparada para ti, com várias comparações com linguagens mais conhecidas.
+
   - title: JavaScript
     time: 16h-18h
     place: DI A1
@@ -49,7 +52,7 @@ wednesday:
 
 thursday:
   - title: Ionic
-    time: 16h-18h
+    time: 17h-19h
     place: DI A1
     image: ionic.png
     text: Ionic é uma framework mobile que te permite desenvolver apps para iOS e Android, com JavaScript, HTML e CSS. Aparece nesta talk dada pela <a target="_blank" href="http://subvisual.co/">Subvisual</a>!
@@ -57,7 +60,7 @@ thursday:
 friday:
   - title: Retro Strikes Again
     time: 9h-18h
-    place: DI A1
+    place: Átrio do DI
     image: red.png
     text: Se no início da semana não tiveste oportunidade, aproveita e passa pelo Departamento de Informática e relembra a informática de outrora e os bons sons 8-bits que temos para ti.
 

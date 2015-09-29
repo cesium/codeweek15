@@ -19,7 +19,7 @@ icon: cesium.png
     <i class="fa fa-laptop fa-4x">
     </i>
     <h4> Hackathons </h4>
-    <p class="feature-description"> Duas hackathons, para todos os gostos! </p>
+    <p class="feature-description"> Duas hackathons, onde poderás passar a tarde e até a noite connosco, no Departamento de Informática, a programar. </p>
   </div>
   <div class="col s12 m4 feature">
     <i class="fa fa-terminal fa-4x">
