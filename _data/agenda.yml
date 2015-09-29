@@ -73,7 +73,7 @@ friday:
 saturday2:
   - title: CoderDojo
     time: 10h-12h
-    place: Átrio do DI
+    place: 0.02
     image: coderdojo.png
     text: O CoderDojo Minho é um movimento aberto e sem fins lucrativos para ensinar jovens dos 7 aos 17 a programar. Partilha e aparece caso tenhas interesse em informática.
 
