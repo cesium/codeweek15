@@ -1,2 +1,2 @@
-Proudly hosted on [GitHub](http://www.github.com)
-by [CeSIUM](http://www.cesium.di.uminho.pt)
+Proudly hosted on [GitHub](http://www.github.com){:target="_blank"}
+by [CeSIUM](http://www.cesium.di.uminho.pt){:target="_blank"}
