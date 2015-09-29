@@ -3,6 +3,7 @@ saturday1:
     time: 10h-20h
     place: DI A1
     image: hackathon.png
+    typeform: https://cesium.typeform.com/to/KJkgiV
     text: A primeira CeSIUM Hackathon deste ano será competitiva! Passa o sábado connosco no Departamento de Informática a programar o melhor bot que conseguires. O vencedor terá direito a um prémio! O almoço e coffee break são por nossa conta. Há limite de vagas para as inscrições.
 
   - title: "BragaJS: Meteor Global Distributed Hackathon"
@@ -22,6 +23,7 @@ monday:
     time: 16h-18h
     place: DI A1
     image: bash.png
+    typeform: https://cesium.typeform.com/to/gtDVSe
     text: Especialmente preparada para os novos utilizadores de Linux, esta palestra para iniciantes prepara-te para a utilização produtiva do terminal.
 
 tuesday:
@@ -29,6 +31,7 @@ tuesday:
     time: 17h-19h
     place: DI A1
     image: segurança.png
+    typeform: https://cesium.typeform.com/to/jau8Ed
     text: 'A <a target="_blank" href="http://eurotux.com/">Eurotux</a> apresenta-te a primeira de uma série de sessões sobre cibersegurança. Junta-te a nós para aprender os básicos de sistemas e segurança e como os hackers exploram as vulnerabilidades.'
 
   - title: Geek Night
@@ -42,12 +45,14 @@ wednesday:
     time: 14h-16h
     place: DI A1
     image: elixir.png
+    typeform: https://cesium.typeform.com/to/BVRFSJ
     text: Elixir é uma das linguagens do momento! Escalável, funcional e tolerante a falhas. Connosco terás uma palestra preparada para ti, com várias comparações com linguagens mais conhecidas.
 
   - title: JavaScript
     time: 16h-18h
     place: DI A1
     image: javascript.png
+    typeform: https://cesium.typeform.com/to/qPxrdE
     text: JavaScript é uma das linguagens em maior desenvolvimento, com várias frameworks a surgir! Junta-te a <a target="_blank" href="https://github.com/pfac">Pedro Costa</a> para aprenderes os básicos desta linguagem essencial para o desenvolvimento web.
 
 thursday:
@@ -55,6 +60,7 @@ thursday:
     time: 17h-19h
     place: DI A1
     image: ionic.png
+    typeform: https://cesium.typeform.com/to/lkBZaK
     text: Ionic é uma framework mobile que te permite desenvolver apps para iOS e Android, com JavaScript, HTML e CSS. Aparece nesta talk dada pela <a target="_blank" href="http://subvisual.co/">Subvisual</a>!
 
 friday:
@@ -66,8 +72,8 @@ friday:
 
 saturday2:
   - title: CoderDojo
-    time: 9h-18h
-    place: DI A1
+    time: 10h-12h
+    place: Átrio do DI
     image: coderdojo.png
     text: O CoderDojo Minho é um movimento aberto e sem fins lucrativos para ensinar jovens dos 7 aos 17 a programar. Partilha e aparece caso tenhas interesse em informática.
 
