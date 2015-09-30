@@ -73,7 +73,8 @@ friday:
 saturday2:
   - title: CoderDojo
     time: 10h-12h
-    place: 0.02
+    place: GNRation
     image: coderdojo.png
+    typeform: https://coderdojo-minho.typeform.com/to/gwf8nv
     text: O CoderDojo Minho é um movimento aberto e sem fins lucrativos para ensinar jovens dos 7 aos 17 a programar. Partilha e aparece caso tenhas interesse em informática.
 
