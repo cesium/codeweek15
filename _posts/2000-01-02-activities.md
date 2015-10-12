@@ -52,7 +52,7 @@ icon: cesium.png
 
 -- A linguagem para a resolução do desafio fica à tua descrição
       {% endhighlight %}
-      <a class="challenge-apply waves-effect waves-light btn bg-white" href="http://193.136.19.148/desafio/index.html" target="blank">Submeter</a>
+      <a class="challenge-apply waves-effect waves-light btn bg-white" href="http://storm.cesium.di.uminho.pt/desafio/index.html" target="blank">Submeter</a>
     </div>
   </li>
 </ul>
