@@ -35,10 +35,11 @@ icon: cesium.png
     <div class="challenge-body collapsible-body">
       {% highlight haskell %}
 -- Descobrir o posicionamento de aspersores de água
+-- Por cada posição regada, 1 ponto é atribuído
   -- Só se podem colocar no máximo 8 aspersores
   -- Cada aspersor só pode regar com um raio máximo de 20
+  -- Cada aspersor pode regar um só cato
   -- Não se pode regar fora da área de 50x50
-  -- Não se pode regar mais do que um cato
 
 -- Posições dos catos:
   [(1, 14),(3, 47),(18, 6),(18, 2),(22, 17),(37, 3),(9, 6),
