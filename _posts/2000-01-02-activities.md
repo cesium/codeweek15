@@ -39,7 +39,7 @@ icon: cesium.png
 -- O objetivo é maximizar a pontuação
   -- Só se podem colocar no máximo 8 aspersores
   -- Cada aspersor só pode regar com um raio máximo de 20
-  -- Cada aspersor pode regar um só cato
+  -- Não se pode regar mais do que um cato
   -- Não se pode regar fora da área de 51x51
 
 -- Posições dos catos:
