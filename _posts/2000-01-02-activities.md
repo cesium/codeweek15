@@ -36,10 +36,11 @@ icon: cesium.png
       {% highlight haskell %}
 -- Descobrir o posicionamento de aspersores de água
 -- Por cada posição regada, 1 ponto é atribuído
+-- O objetivo é maximizar a pontuação
   -- Só se podem colocar no máximo 8 aspersores
   -- Cada aspersor só pode regar com um raio máximo de 20
   -- Cada aspersor pode regar um só cato
-  -- Não se pode regar fora da área de 50x50
+  -- Não se pode regar fora da área de 51x51
 
 -- Posições dos catos:
   [(1, 14),(3, 47),(18, 6),(18, 2),(22, 17),(37, 3),(9, 6),
@@ -51,7 +52,7 @@ icon: cesium.png
 -- Exemplo de output
   [(5, 5, 2), (35, 5, 1)]
 
--- A linguagem para a resolução do desafio fica à tua descrição
+-- A linguagem para a resolução do desafio fica à tua discrição
       {% endhighlight %}
       <a class="challenge-apply waves-effect waves-light btn bg-white" href="http://storm.cesium.di.uminho.pt/desafio/index.html" target="blank">Submeter</a>
     </div>
