@@ -25,6 +25,7 @@ monday:
     image: bash.png
     typeform: https://cesium.typeform.com/to/gtDVSe
     text: Especialmente preparada para os novos utilizadores de Linux, esta palestra para iniciantes prepara-te para a utilização produtiva do terminal.
+    presentation: https://prezi.com/nxv4lyntrudh/cesium-bash-introduction/
 
 tuesday:
   - title: Segurança
