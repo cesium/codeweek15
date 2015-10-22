@@ -48,6 +48,7 @@ wednesday:
     image: elixir.png
     typeform: https://cesium.typeform.com/to/BVRFSJ
     text: Elixir é uma das linguagens do momento! Escalável, funcional e tolerante a falhas. Connosco terás uma palestra preparada para ti, com várias comparações com linguagens mais conhecidas.
+    presentation: https://speakerdeck.com/frmendes/elixir-a-talk-for-college-students
 
   - title: JavaScript
     time: 16h-18h
