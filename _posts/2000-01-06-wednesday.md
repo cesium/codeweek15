@@ -52,6 +52,7 @@ fa-icon: battery-half
         <p class="col m12 activity-desc"> {{ activity.text }} </p>
         {% if activity.typeform %}
         <a class="waves-effect waves-light btn bg-{{ page.border-color }}" href="{{ activity.typeform }}" target="blank">Inscrição</a>
+        <a class="waves-effect waves-light btn bg-{{ page.border-color }}" href="{{ activity.presentation}}" target="blank">Slides</a>
         {% endif %}
       </div>
       <div class="col m3 activity-img valign">
